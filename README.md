@@ -103,7 +103,8 @@ Business Insights & Recommendations
 - Examined zero and negative values in key numerical fields.
   
 ### 3. Exploratory Data Analysis
-    Analysed:
+
+Analysed:
 
 - Hourly taxi pickup distribution.
 - Daily pickup patterns.
@@ -161,18 +162,29 @@ Business Insights & Recommendations
 
 Based on the analysis, recommendations were developed around:
 
-- Demand-Aware Vehicle Allocation
-- Increase vehicle availability during identified peak demand periods and maintain coverage in important nighttime areas.
-- Zone-Level Dispatching
-- Prioritise high-demand zones and airport corridors for vehicle allocation while considering targeted reallocation for under-served areas.
-- Traffic-Aware Routing
-- Use route-speed analysis and congestion information to identify slower corridors and support more efficient routing.
-- Driver Utilization
-- Prioritise nearby available vehicles for forecasted pickups to reduce unnecessary travel and idle time.
-- Predictive Dispatching
-- Use historical hourly and monthly demand patterns to anticipate peak periods and plan vehicle distribution.
-- Pricing Strategy
-- Use demand, distance, fare and congestion-related patterns to support data-driven pricing and surcharge decisions.
+### Demand-Aware Vehicle Allocation
+
+Increase vehicle availability during identified peak demand periods and maintain coverage in important nighttime areas.
+
+### Zone-Level Dispatching
+
+Prioritise high-demand zones and airport corridors for vehicle allocation while considering targeted reallocation for under-served areas.
+
+### Traffic-Aware Routing
+
+Use route-speed analysis and congestion information to identify slower corridors and support more efficient routing.
+
+### Driver Utilization
+
+Prioritise nearby available vehicles for forecasted pickups to reduce unnecessary travel and idle time.
+
+### Predictive Dispatching
+
+Use historical hourly and monthly demand patterns to anticipate peak periods and plan vehicle distribution.
+
+### Pricing Strategy
+
+Use demand, distance, fare and congestion-related patterns to support data-driven pricing and surcharge decisions.
 
 ## 📊 Visualizations
 
@@ -200,20 +212,25 @@ The project includes visualisations covering:
 - Run the notebook cells sequentially.
 
 ## 📁 Project Structure
+```text
 NYC-Taxi-Operations-Analytics/
 │
 ├── EDA_Assg_NYC_Taxi_Gayatri_Behera.ipynb
 ├── Report_NYC_Taxi_Operations_Gayatri_Behera.pdf
 └── README.md
+```
 
 ## 📌 Project Outcome
 
 This project demonstrates an end-to-end data analytics workflow using large-scale NYC taxi trip data.
-The analysis combines data preparation, cleaning, exploratory analysis, geospatial analysis and operational insights to identify patterns that can support
-- taxi demand planning
-- vehicle positioning
-- routing
-- dispatching and pricing decisions.
+
+The analysis combines data preparation, cleaning, exploratory analysis, geospatial analysis and operational insights to identify patterns that can support:
+
+- Taxi demand planning
+- Vehicle positioning
+- Routing
+- Dispatching
+- Pricing decisions
 
 ## 👩‍💻 Author
 Gayatri Behera
