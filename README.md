@@ -46,6 +46,8 @@ The dataset contains information related to:
 - Surcharges
 - Airport fees
 
+**Dataset:** [NYC Taxi Operations Analytics Dataset](https://www.kaggle.com/datasets/gayatribehera5474/dataset-for-nyc-taxi-operations-analytics)
+
 ## 🛠️ Tools & Technologies
 
 - Python
