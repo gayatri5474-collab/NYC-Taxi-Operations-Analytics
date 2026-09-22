@@ -184,9 +184,9 @@ Prioritise nearby available vehicles for forecasted pickups to reduce unnecessar
 
 Use historical hourly and monthly demand patterns to anticipate peak periods and plan vehicle distribution.
 
-### Pricing Strategy
+### Pricing Analysis
 
-Use demand, distance, fare and congestion-related patterns to support data-driven pricing and surcharge decisions.
+Analyse demand, distance, fare and congestion-related patterns to support data-driven pricing and surcharge decisions.
 
 ## 📊 Visualizations
 
